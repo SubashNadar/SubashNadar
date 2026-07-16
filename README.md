@@ -70,7 +70,7 @@ Lately I've been focused on **AI-powered engineering** — building agentic appl
 
 | Project | Description | Stack |
 |---|---|---|
-| **Personal Finance Budget Advisor Agent** | Full-stack AI finance app: a LangGraph conversational agent that logs expenses/income/investments via tools, a live React dashboard, historical-adjusted 50/30/20 budget recommendations, CSV import with validation, and a Gemini → Groq → NVIDIA NIM fallback chain with Langfuse tracing | `React` `Vite` `FastAPI` `LangGraph` `PostgreSQL` `Auth0` `Langfuse` |
+| **[Personal Finance Budget Advisor Agent](https://github.com/SubashNadar/finance-budget-advisor-agent)** | Full-stack AI finance app: a LangGraph conversational agent that logs expenses/income/investments via tools, a live React dashboard, historical-adjusted 50/30/20 budget recommendations, CSV import with validation, and a Gemini → Groq → NVIDIA NIM fallback chain with Langfuse tracing | `React` `Vite` `FastAPI` `LangGraph` `PostgreSQL` `Auth0` `Langfuse` |
 | **AI Code Mentor** | Developer productivity tool that analyzes code files and returns structured bug-fix suggestions, using local LLM inference with a cloud fallback | `Python` `Ollama` `Gemini API` |
 | **PDF Transaction & Holdings Extractor** | Serverless pipeline that extracts and structures transaction/holdings data from PDFs for downstream financial reporting | `Python` `AWS Lambda` `API Gateway` `PostgreSQL` |
 | **Online Voting System** | Full-stack voting platform with secure auth, role-based access control, and real-time result tracking | `ASP.NET MVC` `SQL Server` `JavaScript` `jQuery` |
