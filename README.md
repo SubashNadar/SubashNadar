@@ -87,20 +87,6 @@ Lately I've been focused on **AI-powered engineering** — building agentic appl
 
 ---
 
-## 📊 GitHub Stats
-
-![](https://github-readme-stats.shion.dev/api?username=SubashNadar&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://streak-stats.demolab.com/?user=SubashNadar&theme=dark&hide_border=false)
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubashNadar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-### 🏆 GitHub Trophies
-![](https://github-trophies.vercel.app/?username=SubashNadar&theme=radical&no-frame=true&margin-w=10)
-
-### 📈 Contribution Graph
-![](https://github-readme-activity-graph.vercel.app/graph?username=SubashNadar&theme=react-dark&hide_border=true)
-
----
-
 ## 🌐 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/snadar/)
