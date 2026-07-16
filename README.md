@@ -4,7 +4,7 @@
 
 ### SDE II · Full Stack Developer · Building Scalable Financial Platforms 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%7C+React+%E2%80%A2+C%23+%E2%80%A2+AWS;4%2B+Years+in+Fintech+%26+Learning+Management+Systems;Currently+building+AI-powered+agentic+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8F7&center=true&vCenter=true&width=800&lines=Full+Stack+Software+Engineer+%7C+React+%E2%80%A2+C%23+%E2%80%A2+AWS;4%2B+Years+in+Fintech+%26+Learning+Management+Systems;Currently+building+AI-powered+agentic+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
