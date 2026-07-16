@@ -4,7 +4,7 @@
 
 ### SDE II · Full Stack Developer · Building Scalable Financial Platforms 🚀
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%7C+React+%E2%80%A2+C%23+%E2%80%A2+AWS;4%2B+Years+in+Fintech+%26+HR-Tech;Currently+building+AI-assisted+internal+tooling+%F0%9F%A4%96)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2EA8F7&center=true&vCenter=true&width=600&lines=Full+Stack+Software+Engineer+%7C+React+%E2%80%A2+C%23+%E2%80%A2+AWS;4%2B+Years+in+Fintech+%26+Learning+Management+Systems;Currently+building+AI-powered+agentic+applications+%F0%9F%A4%96)](https://git.io/typing-svg)
 
 </div>
 
@@ -12,12 +12,12 @@
 
 ## 💫 About Me
 
-I'm a Full Stack Software Engineer based in Mumbai, India, with **4+ years** of experience shipping production systems in **fintech** and **HR-tech**. I work across the stack — **React / Angular** on the front end, **C# / ASP.NET Core** on the back end, and **SQL Server, PostgreSQL, MySQL & MongoDB** underneath — with hands-on **AWS** deployment experience and growing exposure to Azure.
+I'm a Full Stack Software Engineer based in Mumbai, India, with **4+ years** of experience shipping production systems in **fintech** and **Learning Management Systems (LMS)**. I work across the stack — **React / Angular** on the front end, **C# / ASP.NET Core** on the back end, and **SQL Server, PostgreSQL, MySQL & MongoDB** underneath — with hands-on **AWS** deployment experience and growing exposure to Azure.
 
-Lately I've been focused on **AI-assisted engineering** — using Claude AI, Ollama, and the Gemini API to automate workflows and build internal developer tooling.
+Lately I've been focused on **AI-powered engineering** — building agentic applications with LangGraph and multi-provider LLM pipelines, and using Claude AI, Ollama, and the Gemini API to automate workflows and internal developer tooling.
 
 - 🔭 Currently **modernizing a legacy financial platform** at Motilal Oswal Financial Services, integrating AI-assisted automation and leading a MySQL → PostgreSQL migration
-- 🌱 Currently learning **Agentic AI Systems** (NIIT) and deepening my system design skills
+- 🌱 Currently learning **Agentic AI Systems** (NIIT) and building end-to-end AI agents as capstone projects
 - 🏆 Two-time recipient of the **Cornerstone Achievement Bonus (CAB)** for high-impact engineering contributions
 - 💬 Ask me about **React/Angular, ASP.NET Core, REST API design, SQL performance tuning, or AI-assisted developer tooling**
 - 📫 Reach me at **subashnadar3@gmail.com**
@@ -51,6 +51,7 @@ Lately I've been focused on **AI-assisted engineering** — using Claude AI, Oll
 
 | Project | Description | Stack |
 |---|---|---|
+| **Personal Finance Budget Advisor Agent** | Full-stack AI finance app: a LangGraph conversational agent that logs expenses/income/investments via tools, a live React dashboard, historical-adjusted 50/30/20 budget recommendations, CSV import with validation, and a Gemini → Groq → NVIDIA NIM fallback chain with Langfuse tracing | `React` `Vite` `FastAPI` `LangGraph` `PostgreSQL` `Auth0` `Langfuse` |
 | **AI Code Mentor** | Developer productivity tool that analyzes code files and returns structured bug-fix suggestions, using local LLM inference with a cloud fallback | `Python` `Ollama` `Gemini API` |
 | **PDF Transaction & Holdings Extractor** | Serverless pipeline that extracts and structures transaction/holdings data from PDFs for downstream financial reporting | `Python` `AWS Lambda` `API Gateway` `PostgreSQL` |
 | **Online Voting System** | Full-stack voting platform with secure auth, role-based access control, and real-time result tracking | `ASP.NET MVC` `SQL Server` `JavaScript` `jQuery` |
@@ -93,10 +94,10 @@ Lately I've been focused on **AI-assisted engineering** — using Claude AI, Oll
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=SubashNadar&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SubashNadar&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-trophies.vercel.app/?username=SubashNadar&theme=radical&no-frame=true&margin-w=10)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SubashNadar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 📈 Contribution Graph
+![](https://github-readme-activity-graph.vercel.app/graph?username=SubashNadar&theme=react-dark&hide_border=true)
 
 ---
 
